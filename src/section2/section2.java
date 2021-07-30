@@ -1,3 +1,5 @@
+package section2;
+
 public class section2 {
     public static void main(String[] args) throws InterruptedException {
         Thread thread = new Thread(new Runnable() {
