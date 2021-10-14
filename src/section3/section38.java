@@ -21,7 +21,7 @@ public class section38 {
         }
 
         for (Thread thread : threads) {
-            thread.setDaemon(true);
+//            thread.setDaemon(true);
             thread.start();
         }
 
